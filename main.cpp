@@ -8,7 +8,7 @@
 #define POPULACAO_TAMANHO       2000
 
 
-#define DINO_BRAIN_QTD_LAYERS   1       /// Quantidade de camadas escondidas na rede neural
+#define DINO_BRAIN_QTD_LAYERS   1       /// Quantidade de camadas escondidas na rede neural...
 #define DINO_BRAIN_QTD_INPUT    6       /// Quantidade de neuronios na camada de entrada
 #define DINO_BRAIN_QTD_HIDE     6       /// Quantidade de neuronios nas camadas escondidas
 #define DINO_BRAIN_QTD_OUTPUT   3       /// Quantidade de neuronios na camada de saida
