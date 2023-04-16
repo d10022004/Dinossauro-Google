@@ -16,8 +16,8 @@
 #include "PIG.h"                        ///   Biblioteca Grafica
 #include "Sprites.h"                    ///   Todos os códigos sobre sprite
 #include "redeNeural.c"                 ///   Código da rede neural
-#include "Tipos.h"                      ///   Definições de structs
-#include "Variaveis.h"                  ///   Variaveis globais
+#include "Tipos.h"                      ///   Definições de structs..
+#include "Variaveis.h"                  ///   Variaveis globais..
 #include "FuncoesAuxiliares.h"
 #include "DNAs.h"
 #include "Desenhar.h"
